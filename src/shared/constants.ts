@@ -44,7 +44,7 @@ export const MODELS: Record<
   },
 };
 
-export const TEXT_GENERATION_ID = "gemma4E2B";
+export const TEXT_GENERATION_ID = "granite350m";
 export const FEATURE_EXTRACTION_ID = "allMiniLM";
 
 export const REQUIRED_MODEL_IDS = [
